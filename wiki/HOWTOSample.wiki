@@ -1,7 +1,5 @@
 #summary HOWTO/Sample usage
 
-= HOWTO - Sample =
-
   # Checkout framework's eclipse project using your favorite eclipse svn plugin 
   # Create a new android project and from the project proprieties choose "Java Build Path" -> "Project" and add the project "KlioMobileDS"
   # Change application permission so it can access the internet, add the following code in AndroidManifest.xml
