@@ -1,0 +1,2 @@
+klio-mobile-ds is framework, based on Blazeds, to receive Adobe AMF binary data streams.
+klio-mobile-ds provides web messaging technology that enables developers to easily connect to back-end distributed data and push data to Android applications for more responsive mobile application experiences.
